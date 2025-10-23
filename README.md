@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: readme Jekyll Gitbook Theme
 permalink: /
 ---
 
